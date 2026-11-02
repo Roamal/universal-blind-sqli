@@ -29,6 +29,6 @@ The user supplies a payload template with a `{PAYLOAD}` placeholder, and the scr
     ## Installation
     
     ```bash
-    git clone https://github.com/<your-username>/universal-blind-sqli.git
+    git clone https://github.com/Roamal/universal-blind-sqli.git
     cd universal-blind-sqli
     pip install -r requirements.txt
